@@ -1,0 +1,11 @@
+.heading_text {
+  background-color: rgb(246, 246, 246);
+  padding: 16px;
+  height: 80px;
+  border-radius: 10px;
+}
+
+.heading_text p {
+    color: green;
+    font-weight: 800;
+}

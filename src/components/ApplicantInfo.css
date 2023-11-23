@@ -1,0 +1,11 @@
+.applicantInfo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 16px 0;
+}
+
+.applicantInfo img {
+  width: 50px;
+  height: auto;
+}
